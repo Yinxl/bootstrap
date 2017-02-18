@@ -1,3 +1,7 @@
+
+# 注： 本Demo已经不再维护，新版请参考：https://github.com/macaca-sample/macaca-java-biz-sample
+
+
 # bootstrap
 
 基于Macaca-Java版的UI自动化实现demo
