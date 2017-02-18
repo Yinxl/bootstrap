@@ -1,5 +1,7 @@
 
-# 注： 本Demo已经不再维护，新版请参考：https://github.com/macaca-sample/macaca-java-biz-sample
+## 注： 本Demo已经不再维护，新版请参考如下sample：
+
+https://github.com/macaca-sample/macaca-java-biz-sample
 
 
 # bootstrap
